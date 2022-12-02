@@ -2,7 +2,9 @@ rabbitmq/*
 !rabbitmq/.gitkeep
 
 rabbitmq/data/*
+!rabbitmq/data
 !rabbitmq/data/.gitkeep
 
 rabbitmq/log/*
+!rabbitmq/log
 !rabbitmq/log/.gitkeep
